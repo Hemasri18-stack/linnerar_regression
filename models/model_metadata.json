@@ -1,0 +1,18 @@
+{
+  "current_version": 1,
+  "total_retrainings": 0,
+  "last_retrained_at": "2026-08-11T18:17:00.888189",
+  "history": [
+    {
+      "version": 1,
+      "records_used": 200,
+      "original_records": 200,
+      "user_records": 0,
+      "r2": 0.8996,
+      "mae": 2.3945,
+      "rmse": 3.0328,
+      "timestamp": "2026-08-11T18:17:00.888189",
+      "deployed": true
+    }
+  ]
+}
